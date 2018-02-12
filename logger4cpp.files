@@ -1,0 +1,12 @@
+BaseLogger.cpp
+BaseLogger.h
+FileLogger.cpp
+FileLogger.h
+LogManager.cpp
+LogManager.h
+README.md
+StdOutLogger.cpp
+StdOutLogger.h
+SyslogLogger.cpp
+SyslogLogger.h
+main.cpp
